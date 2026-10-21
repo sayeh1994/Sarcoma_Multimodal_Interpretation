@@ -6,10 +6,10 @@ An evidence-generation pipeline for multimodal interpretation of sarcoma whole-s
 
 - ✅ **Poster accepted at the ESMO AI & Digital Oncology Congress 2026.**
 - 📝 **Training code:** The training script will be released after the congress.
-- 📌 **MIL checkpoint access:** Please request access to the MIL model weights through the [access request form](REPLACE_WITH_ACCESS_REQUEST_URL).
+- 📌 **MIL checkpoint access:** Please request access to the MIL model weights through the [access request form](https://forms.gle/ztvHVjnq46TVuzmd7).
 
 > [!NOTE]
-> This project uses [CellViT++](https://github.com/TIO-IKIM/CellViT-plus-plus) for cell detection. The pipeline requires a modified version that accepts coordinates for selected patches instead of processing an entire slide. The modifications are maintained separately and are not part of the original CellViT++ repository. Please request access to the modified repository here: [modified CellViT repository](REPLACE_WITH_MODIFIED_CELLVIT_REPOSITORY_URL).
+> This project uses [CellViT++](https://github.com/TIO-IKIM/CellViT-plus-plus) for cell detection. The pipeline requires a modified version that accepts coordinates for selected patches instead of processing an entire slide. The modifications are maintained separately and are not part of the original CellViT++ repository. Please access to the modified repository here: [modified CellViT repository](REPLACE_WITH_MODIFIED_CELLVIT_REPOSITORY_URL).
 
 ## Installation
 
